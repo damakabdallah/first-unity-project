@@ -1,0 +1,2 @@
+D:\unity\projects\character movement\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\unity\projects\character movement\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
