@@ -119,6 +119,8 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
      <Compile Include="Assets\treasure\script\chestCtrl.cs" />
      <Compile Include="Assets\UI\scripts\ammotext.cs" />
+     <Compile Include="Assets\UI\scripts\cursorScript.cs" />
+     <Compile Include="Assets\UI\scripts\loadMainMenu.cs" />
      <Compile Include="Assets\UI\scripts\NewGame.cs" />
      <Compile Include="Assets\UI\scripts\pauseMenu.cs" />
      <Compile Include="Assets\UI\scripts\WeaponUI.cs" />
